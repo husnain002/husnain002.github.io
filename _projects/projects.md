@@ -1,7 +1,7 @@
 ---
-name: Empty Project
-tools: [Node JS, JavaScript, HTML, CSS]
+name: XSS Scanner
+tools: [Python, HTML, CSS]
 image:
-description: This project has no image or showcase page, but it is still a beautiful project inside out!
-external_url: https://github.com/yousinix
+description: Advance XSS Scanner!
+external_url: https://github.com/husnain002/xss-scanner
 ---
