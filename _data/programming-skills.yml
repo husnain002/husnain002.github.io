@@ -2,11 +2,11 @@
   percentage: 90
   color: success 
 
-- name: PHP
+- name: Go
   percentage: 65
   color: warning
 
-- name: C#
+- name: Nim
   percentage: 50
   color: info
 
