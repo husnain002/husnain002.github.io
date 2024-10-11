@@ -1,10 +1,10 @@
 ### Site Settings ###
 title               : Husnain Shahid
 description: |
-  Exploring the Digital Maze 🌐
-  Penetration Tester 🔐
-  Red Teamer 🦠
-  Automation Enthusiast 🤖
+  Exploring the Digital Maze 🌐 | 
+  Penetration Tester 🔐 |
+  Red Teamer 🦠 |
+  Automation Enthusiast 🤖 |
   Embracing Open Source 🌟
 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
